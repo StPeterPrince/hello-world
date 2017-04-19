@@ -1,0 +1,1 @@
+sc create SVN-Service binpath= "C:\Program Files (x86)\Subversion\bin\svnserve.exe --service -r F:\Repositories" displayname= "SVN-Service" start= auto depend= Tcpip
